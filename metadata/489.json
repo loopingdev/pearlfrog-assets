@@ -1,0 +1,34 @@
+{
+    "name": "Pearl Frog #489",
+    "description": "In the deep, iridescent depths of the pixel blockchain lies the Pearl Chain—a decentralized expanse of raw cryptographic blocks. Here, bathed in the shifting hues of vaporwave gradients and neon neon glares, the Pearl Frogs are born. \n\nEach Pearl Frog is a mathematically unique, 8-bit digital amphibian crafted from pure data, adorned with shimmering pearl tiaras, glowing chains, and floating cosmic auras. They are the ancient guardians of the ledger, symbols of precious rarity, and immutable cryptographic artifacts of provable provenance. Locked in stone forever under the absolute protection of the manifest hash.\n",
+    "image": "ipfs://REPLACE_WITH_YOUR_CID/489.png",
+    "edition": 489,
+    "date": 1779878756010,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Midnight Obsidian"
+        },
+        {
+            "trait_type": "Skin Archetype",
+            "value": "Cosmic Purple"
+        },
+        {
+            "trait_type": "Eyes / Glasses",
+            "value": "Normal Eyes"
+        },
+        {
+            "trait_type": "Mouth Expression",
+            "value": "Simple Smile"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pearl Accents",
+            "value": "None"
+        }
+    ],
+    "compiler": "Pearl Frog Generative NFT Suite v1.0"
+}
