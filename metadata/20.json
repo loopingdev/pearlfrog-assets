@@ -1,7 +1,7 @@
 {
     "name": "Pearl Frog #20",
-    "description": "In the deep, iridescent depths of the pixel blockchain lies the Pearl Chain—a decentralized expanse of raw cryptographic blocks. Here, bathed in the shifting hues of vaporwave gradients and neon neon glares, the Pearl Frogs are born. \n\nEach Pearl Frog is a mathematically unique, 8-bit digital amphibian crafted from pure data, adorned with shimmering pearl tiaras, glowing chains, and floating cosmic auras. They are the ancient guardians of the ledger, symbols of precious rarity, and immutable cryptographic artifacts of provable provenance. Locked in stone forever under the absolute protection of the manifest hash.\n",
-    "image": "ipfs://REPLACE_WITH_YOUR_CID/20.png",
+    "description": "In the deep, iridescent depths of the pixel blockchain lies the Pearl Chain\u2014a decentralized expanse of raw cryptographic blocks. Here, bathed in the shifting hues of vaporwave gradients and neon neon glares, the Pearl Frogs are born. \n\nEach Pearl Frog is a mathematically unique, 8-bit digital amphibian crafted from pure data, adorned with shimmering pearl tiaras, glowing chains, and floating cosmic auras. They are the ancient guardians of the ledger, symbols of precious rarity, and immutable cryptographic artifacts of provable provenance. Locked in stone forever under the absolute protection of the manifest hash.\n",
+    "image": "ipfs://REPLACE_WITH_YOUR_CID/20.svg",
     "edition": 20,
     "date": 1779878464597,
     "attributes": [
